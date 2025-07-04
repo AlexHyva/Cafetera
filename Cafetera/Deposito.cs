@@ -14,5 +14,10 @@
             nivelAgua -= cantidad;
             Console.WriteLine($"Se consumieron {cantidad} ml de agua");
         }
+
+        public void temperatura(int calentador)
+        {
+
+        }
     }
 }
