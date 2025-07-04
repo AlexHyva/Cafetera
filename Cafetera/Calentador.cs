@@ -12,6 +12,18 @@
             public void apagar()
             {
                 Console.WriteLine("Apagando cafetera \n ¡CUIDADO SIGUE CALIENTE!");
+                Console.WriteLine("       ) )");
+                Console.WriteLine("      ( (");
+                Console.WriteLine("    _______");
+                Console.WriteLine("   /       \\");
+                Console.WriteLine("  /         \\");
+                Console.WriteLine(" |   ~~~    |");
+                Console.WriteLine(" |   | |    |");
+                Console.WriteLine(" |   | |    |");
+                Console.WriteLine(" |   |_|    |");
+                Console.WriteLine(" |          |");
+                Console.WriteLine("  \\   ~~   /");
+                Console.WriteLine("   \\_____/");
             }
         }
     }
