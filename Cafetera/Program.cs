@@ -28,7 +28,7 @@
             deposito.consumirAgua(500);
             calentador.apagar();
 
-            Console.WriteLine("Cafesito listo");
+            Console.WriteLine("Cafes americano listo");
             
         }
     }
