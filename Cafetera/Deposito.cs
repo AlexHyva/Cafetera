@@ -15,9 +15,12 @@
             Console.WriteLine($"Se consumieron {cantidad} ml de agua");
         }
 
-        public void temperatura(int calentador)
+        public void temperatura(bool calentador)
         {
-
+            if (calentador = true)
+            {
+                Console.WriteLine("Pecalentando agua para el cafe...");
+            }
         }
     }
 }
